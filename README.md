@@ -25,3 +25,6 @@ Tem um motor dentro (objeto da classe 'Motor')
 - Expostos em uma lista organizada.
 
 
+Exemplo compilado:
+![image](https://github.com/user-attachments/assets/5f426259-e3a8-4635-abab-fc165d35e0f2)
+
